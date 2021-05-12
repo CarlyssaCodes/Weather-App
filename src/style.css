@@ -1,0 +1,41 @@
+h1 {
+  font-family: "Fredoka One", cursive;
+}
+h2,
+h3,
+p {
+  font-family: "Raleway", sans-serif;
+}
+
+h2 {
+  font-size: 70px;
+}
+
+h5 {
+  font-size: 20px;
+  font-weight: 100;
+}
+
+.form-control {
+  border-radius: 45px;
+}
+.btn-main {
+  color: blue;
+  background-color: lightblue;
+  padding: 0, 0;
+  border-radius: 6px;
+}
+
+.current-weather {
+  position: relative;
+  left: 30%;
+}
+
+p {
+  text-align: center;
+  font-size: 20px;
+}
+
+img {
+  width: 120px;
+}
