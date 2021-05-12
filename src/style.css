@@ -30,6 +30,9 @@ h5 {
   position: relative;
   left: 30%;
 }
+.link {
+  font-size: smaller;
+}
 
 p {
   text-align: center;
